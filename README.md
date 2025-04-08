@@ -1,2 +1,1 @@
-# Scraplyze
-pet project
+pet project | 2025
